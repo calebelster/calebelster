@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @calebelster
 - 👀 I’m interested in AI and Machine Learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me calebelster@icloud.com
 
